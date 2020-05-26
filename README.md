@@ -2,7 +2,7 @@
 This repository implements a 3D version of the defromable convolution architecture proposed in this paper:  
 [*Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu and Yichen Wei. Deformable Convolutional Networks. arXiv preprint arXiv:1703.06211, 2017.*](https://arxiv.org/abs/1703.06211) 
 
-This depository is based on the repository found on: https://github.com/ChunhuanLin/deform_conv_pytorch, by ChunhuanLin, which implements the 2D deformable convolution module. Here, we extend this 
+This repository is forked from the repository found on: https://github.com/ChunhuanLin/deform_conv_pytorch, by ChunhuanLin, which implements the 2D deformable convolution module. Here, we extend this 
 module to handle 3D inputs and allow the deformable convolution to learn 3D offsets. 
 
 ### Usage
